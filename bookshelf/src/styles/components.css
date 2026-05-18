@@ -848,7 +848,6 @@ kbd {
 
 @media (max-width: 480px) {
   .books-grid { grid-template-columns: repeat(2, 1fr); }
-  .review-item__rating { display: none; }
   .status-picker__btn { font-size: 0.8125rem; padding: 7px 12px; }
   .search-bar__input { height: 46px; font-size: 0.9375rem; }
 }
